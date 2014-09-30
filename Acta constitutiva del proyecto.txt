@@ -1,0 +1,11 @@
+Acta constitutiva del proyecto
+
+Propósito o justificación del proyecto
+
+El propósito de este proyecto tiene como finalidad obtener la calificación final para la aprobación de 
+la asignatura de inteligencia artificial.
+
+Objetivos medibles del proyecto y criterios de éxito asociados
+
+Elaborar un prototipo que simule el comportamiento de un chef de manera dinámica e inteligente 
+aplicando algoritmos de inteligencia artificial de manera dinámica e inteligente aplicando algoritmos de inteligencia artificial
