@@ -9,3 +9,11 @@ Objetivos medibles del proyecto y criterios de éxito asociados
 
 Elaborar un prototipo que simule el comportamiento de un chef de manera dinámica e inteligente 
 aplicando algoritmos de inteligencia artificial de manera dinámica e inteligente aplicando algoritmos de inteligencia artificial
+
+Requerimientos de alto nivel
+•	Sugerir recetas de platillos conocidos mostrando su preparación e ingredientes que la conforma
+•	Que el sistema puede determinar la existencia de un ingrediente en el stock
+•	Con la capacidad de aprender cuando no cuente con la receta solicitada
+Descripción del proyecto de alto nivel
+El proyecto consiste en desarrollar un sistema para la asignatura anteriormente mencionada que simule el comportamiento de un chef  en el cual exista una interacción con el usuario cuando solicite una receta de un determinado platillo, teniendo en cuenta que si el platillo no está en su base de dato el usuario pueda enseñarle, también sea capaz de suministrar información relacionada al stock
+
