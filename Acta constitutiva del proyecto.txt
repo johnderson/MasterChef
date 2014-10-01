@@ -17,3 +17,8 @@ Requerimientos de alto nivel
 Descripción del proyecto de alto nivel
 El proyecto consiste en desarrollar un sistema para la asignatura anteriormente mencionada que simule el comportamiento de un chef  en el cual exista una interacción con el usuario cuando solicite una receta de un determinado platillo, teniendo en cuenta que si el platillo no está en su base de dato el usuario pueda enseñarle, también sea capaz de suministrar información relacionada al stock
 
+PM asignado con su grado de responsabilidad y autoridad
+El PM asignado es el profesor  Ing.  Jesús Contreras 
+
+Nombre y nivel del Sponsor que aprueba el acta
+Profesor  Ing.  Manuel Mujica
