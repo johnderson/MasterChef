@@ -25,5 +25,10 @@ Resumen del presupuesto
 Tomando en cuenta las consideraciones anteriores se procede a realizar el cálculo respectivo donde: 
  Horas de desarrollo: (a definir)
  Precio de las horas de programación: 150bs
-
 Horas hombres * Precio de Horas= Precio de la pagina
+
+PM asignado con su grado de responsabilidad y autoridad
+El PM asignado es el profesor  Ing.  Jesús Contreras 
+
+Nombre y nivel del Sponsor que aprueba el acta
+Profesor  Ing.  Manuel Mujica
