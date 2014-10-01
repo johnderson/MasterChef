@@ -17,3 +17,13 @@ Requerimientos de alto nivel
 Descripción del proyecto de alto nivel
 El proyecto consiste en desarrollar un sistema para la asignatura anteriormente mencionada que simule el comportamiento de un chef  en el cual exista una interacción con el usuario cuando solicite una receta de un determinado platillo, teniendo en cuenta que si el platillo no está en su base de dato el usuario pueda enseñarle, también sea capaz de suministrar información relacionada al stock
 
+Riesgos de alto nivel
+Uno de los principales riesgo es el tiempo debido que dependemos de las 16 semas del semestre
+Agenda de hitos principales
+•	Acta constitutiva.
+Resumen del presupuesto
+Tomando en cuenta las consideraciones anteriores se procede a realizar el cálculo respectivo donde: 
+ Horas de desarrollo: (a definir)
+ Precio de las horas de programación: 150bs
+
+Horas hombres * Precio de Horas= Precio de la pagina
